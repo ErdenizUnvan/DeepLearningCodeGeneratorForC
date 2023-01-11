@@ -1,0 +1,25 @@
+C'de yazdığımız kodlar
+
+
+
+no dense
+
+Tests an example CNN with no dense layer.
+
+:return: None
+
+
+
+dense model
+
+Tests an example CNN with a Dense layer and valid padding.
+
+:return: None.
+
+
+
+strides
+
+Tests an example CNN with additional unusual strides.
+
+ :return: None.
